@@ -37,17 +37,17 @@
 						position: 'top-left',
 						side: 'left',
 						width: 250
-					},
-
-				// Navigation Button.
-					navButton: {
-						breakpoints: 'narrower',
-						height: '4em',
-						html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span>',
-						position: 'top-left',
-						side: 'top',
-						width: '6em'
 					}
+
+				// // Navigation Button.
+				// 	navButton: {
+				// 		breakpoints: 'narrower',
+				// 		height: '4em',
+				// 		html: '<span class="toggle" data-action="toggleLayer" data-args="navPanel"></span>',
+				// 		position: 'top-left',
+				// 		side: 'top',
+				// 		width: '6em'
+				// 	}
 
 			}
 		}
